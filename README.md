@@ -1,27 +1,101 @@
-<h1 align="center">Hi 👋, I'm chandan</h1>
-<h3 align="center">Hey! I'm a Cybersecurity Enthusiast and Full-Stack Developer with a focus on Purple Teaming. I build cybersecurity-focused projects and work with both offensive (Red Team) and defensive (Blue Team) strategies. I also have experience with cloud technologies (AWS) and enjoy working on security automation, vulnerability detection, and web development. Always learning, always building! 🔥</h3>
+<!-- Banner -->
+<h1 align="center">Hey there 👋, I'm Chandan Lokesh</h1>
+<h3 align="center">🔐 Cybersecurity Enthusiast | Fullstack Developer | SOC Analyst | Tech Explorer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandanlokesh&label=Profile%20views&color=0e75b6&style=flat" alt="chandanlokesh" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandanlokesh" alt="chandanlokesh" /></a> </p>
+### 🧠 About Me
 
-- 🌱 I’m currently learning **HTMX**
+💻 I'm a passionate tech geek working as a **SOC Analyst at GIR Technologies**.  
+🛡️ I specialize in **Cybersecurity**, especially **Penetration Testing**, **Tool Development**, and **Threat Monitoring**.  
+👨‍💻 I'm also a **Full Stack Developer** who loves building secure, scalable applications.  
+📊 Currently learning **Data Science** and exploring ways to integrate it with **Cybersecurity**.  
+⚡ I’ve participated in multiple hackathons (like **SIH**, **RNSIT Hackathon**, and more).  
+🛠️ I love building tools, automating stuff, and exploring the boundaries of tech!
 
-- 👨‍💻 All of my projects are available at [https://github.com/Chandanlokesh](https://github.com/Chandanlokesh)
+---
 
-- 📫 How to reach me **chandanlokesh17@gmail.com**
+### 🧰 Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chandan-lokesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandan-lokesh" height="30" width="40" /></a>
+#### 💻 Languages & Frameworks  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+#### 🗃️ Databases  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### ☁️ Cloud & DevOps  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+#### 📊 Data Science Stack  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+---
+
+### 🛡️ Cybersecurity Skills
+
+- 🔍 Vulnerability Assessment & Penetration Testing  
+- 📉 Log Analysis & Threat Detection  
+- 📡 Network Monitoring & IDS/IPS  
+- 🧪 Red Teaming & Offensive Security  
+- ⚙️ Python Tooling & Scripting for Automation  
+- 🐚 Bash for System Automation  
+- 🕵️ Building OSINT and Recon Tools  
+- 📦 SOC Monitoring & Incident Response  
+
+---
+
+### 🚀 Projects Worth Checking
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **Cyber-Alerter** | A vulnerability scanner that scrapes OEMs, predicts risk levels, and sends alerts. | Node.js, MongoDB, Python, AWS |
+| **Recon Wizard** | A CLI tool for OSINT and automated reconnaissance. | Python, Bash |
+| **Secure Notes** | A web app to store encrypted notes using client-side encryption. | React, Node.js, MongoDB |
+
+> 🛠️ More projects in progress...
+
+---
+
+### 🏆 Hackathon Journey
+
+- 🥇 Finalist at **Smart India Hackathon 2024** – Cybersecurity & Blockchain domain  
+- 🥈 Winner at **RNSIT Hackathon 2024** – Developed an automated vulnerability dashboard  
+- 🧠 Regular participant at internal CTFs and cybersecurity events  
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chandanlokesh&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chandanlokesh&theme=tokyonight&hide_border=true" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandanlokesh&show_icons=true&locale=en&layout=compact" alt="chandanlokesh" /></p>
+### 🌐 Let's Connect
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandanlokesh&show_icons=true&locale=en" alt="chandanlokesh" /></p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)  
+📫 **Email:** your.email@example.com  
+🌍 **Website/Portfolio:** Coming soon...
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandanlokesh&" alt="chandanlokesh" /></p>
+---
 
+<p align="center">⚡ Learning. Building. Breaking. Repeating. ⚡</p>
