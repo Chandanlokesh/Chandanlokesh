@@ -1,17 +1,6 @@
 <!-- Banner -->
-<h1 align="center">Hey there 👋, I'm Chandan Lokesh</h1>
-<h3 align="center">🔐 Cybersecurity Enthusiast | Fullstack Developer | SOC Analyst | Tech Explorer</h3>
-
----
-
-### 🧠 About Me
-
-💻 I'm a passionate tech geek working as a **SOC Analyst at GIR Technologies**.  
-🛡️ I specialize in **Cybersecurity**, especially **Penetration Testing**, **Tool Development**, and **Threat Monitoring**.  
-👨‍💻 I'm also a **Full Stack Developer** who loves building secure, scalable applications.  
-📊 Currently learning **Data Science** and exploring ways to integrate it with **Cybersecurity**.  
-⚡ I’ve participated in multiple hackathons (like **SIH**, **RNSIT Hackathon**, and more).  
-🛠️ I love building tools, automating stuff, and exploring the boundaries of tech!
+<h1 align="center">Hey there 👋, I'm Chandan</h1>
+<h3 align="center">🔐 Cybersecurity Enthusiast | backend Developer | penetration Tester| Tech Explorer</h3>
 
 ---
 
@@ -48,39 +37,6 @@
 
 ---
 
-### 🛡️ Cybersecurity Skills
-
-- 🔍 Vulnerability Assessment & Penetration Testing  
-- 📉 Log Analysis & Threat Detection  
-- 📡 Network Monitoring & IDS/IPS  
-- 🧪 Red Teaming & Offensive Security  
-- ⚙️ Python Tooling & Scripting for Automation  
-- 🐚 Bash for System Automation  
-- 🕵️ Building OSINT and Recon Tools  
-- 📦 SOC Monitoring & Incident Response  
-
----
-
-### 🚀 Projects Worth Checking
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **Cyber-Alerter** | A vulnerability scanner that scrapes OEMs, predicts risk levels, and sends alerts. | Node.js, MongoDB, Python, AWS |
-| **Recon Wizard** | A CLI tool for OSINT and automated reconnaissance. | Python, Bash |
-| **Secure Notes** | A web app to store encrypted notes using client-side encryption. | React, Node.js, MongoDB |
-
-> 🛠️ More projects in progress...
-
----
-
-### 🏆 Hackathon Journey
-
-- 🥇 Finalist at **Smart India Hackathon 2024** – Cybersecurity & Blockchain domain  
-- 🥈 Winner at **RNSIT Hackathon 2024** – Developed an automated vulnerability dashboard  
-- 🧠 Regular participant at internal CTFs and cybersecurity events  
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -92,9 +48,8 @@
 
 ### 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)  
-📫 **Email:** your.email@example.com  
-🌍 **Website/Portfolio:** Coming soon...
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/chandan-lokesh)  
+📫 **Email:** chandanlokesh17@gmail.com  
 
 ---
 
