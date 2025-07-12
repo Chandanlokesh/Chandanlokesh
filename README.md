@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">Hey there 👋, I'm Chandan</h1>
-<h3 align="center">🔐 Cybersecurity Enthusiast | backend Developer | penetration Tester| Tech Explorer</h3>
+<h3 align="center">🔐 Cybersecurity Enthusiast </h3>
 
 ---
 
